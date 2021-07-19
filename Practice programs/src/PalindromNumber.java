@@ -30,8 +30,7 @@ public class PalindromNumber {
 		//condition to check if the reverse number is same as original number
 		if (rev==org_num)
 		{
-			System.out.println(org_num + " is a palindrome number");
-			
+			System.out.println(org_num + " is a palindrome number");	
 		}
 		else
 		{
